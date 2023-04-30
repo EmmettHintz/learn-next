@@ -34,7 +34,7 @@ const About = () => {
               className="rounded-3xl shadow-lg hover:shadow-xl transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-105"
             />
           </div>
-          <div className="bg-light shadow-lg rounded p-4 hover:shadow-xl transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-105 hover:bg-rose-50">
+          <div className="bg-light shadow-lg rounded-2xl p-4 hover:shadow-xl transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-105 hover:bg-rose-50">
             <h3 className="text-dark text-4xl font-bold">Emmett Hintz</h3>
             <p className="text-dark text-2xl underline">Front-End Specialist</p>
             <p className="text-dark text-xl ">
@@ -43,7 +43,7 @@ const About = () => {
               creating interactive and fun websites!
             </p>
           </div>
-          <div className="bg-light shadow-lg rounded p-4 hover:shadow-xl transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-105 hover:bg-rose-50">
+          <div className="bg-light shadow-lg rounded-2xl p-4 hover:shadow-xl transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-105 hover:bg-rose-50">
             <h3 className="text-dark text-4xl font-bold">Mark Attar</h3>
             <p className="text-dark text-2xl underline">Product Manager</p>
             <p className="text-dark text-xl ">
