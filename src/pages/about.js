@@ -36,7 +36,7 @@ const About = () => {
           </div>
           <div className="bg-light shadow-lg rounded-2xl p-4 hover:shadow-xl transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-105 hover:bg-rose-50">
             <h3 className="text-dark text-4xl font-bold">Emmett Hintz</h3>
-            <p className="text-dark text-2xl underline">Front-End Specialist</p>
+            <p className="text-dark text-2xl underline">Front-End Lead</p>
             <p className="text-dark text-xl ">
               Emmett is a sophomore at the Colgate University studying Computer
               Science and Economics. He is passionate about web design and
