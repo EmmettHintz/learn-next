@@ -8,7 +8,7 @@ const About = () => {
         <h1 className="text-3xl font-bold text-dark mb-8 text-center">
           About Us
         </h1>
-        <div className="bg-light shadow-lg rounded p-6 hover:shadow-xl transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-105 hover:bg-rose-50">
+        <div className="bg-light shadow-lg rounded-2xl p-6 hover:shadow-xl transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-105 hover:bg-rose-50">
           <p className="text-dark text-lg">
             Welcome! We are a dedicated team of students driven by our passion
             for creating groundbreaking solutions tailored to our
