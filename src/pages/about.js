@@ -60,6 +60,23 @@ const About = () => {
               className="rounded-3xl shadow-lg hover:shadow-xl transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-105"
             />
           </div>
+          <div className="flex justify-center">
+            <Image
+              src="/images/Emmett.jpg"
+              alt="James Njoroge"
+              width={250}
+              height={250}
+              className="rounded-3xl shadow-lg hover:shadow-xl transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-105"
+            />
+          </div>
+          <div className="bg-light shadow-lg rounded-2xl p-4 hover:shadow-xl transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-105 hover:bg-rose-50">
+            <h3 className="text-dark text-4xl font-bold">James Njoroge</h3>
+            <p className="text-dark text-2xl underline">Product Manager</p>
+            <p className="text-dark text-xl ">
+              James Njoroge is a sophomore at the Colgate University studying Computer
+              Science. Filler here!
+            </p>
+          </div>
         </div>
       </div>
     </div>
